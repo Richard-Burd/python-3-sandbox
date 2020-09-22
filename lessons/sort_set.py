@@ -25,6 +25,6 @@ def age_count(dictionary):
   ages = list(dictionary.values())
   for age in set(ages):
     number = ages.count(age)
-    print(f'Ther are {number} different ages')
+    print(f'There are {number} people aged {age}')
 
 age_count(people_ages)

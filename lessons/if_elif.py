@@ -1,7 +1,7 @@
 age = int(input('Enter your age:'))
 
 if age < 10:
-  # Python expects the code block to be intented
+  # Python expects the code block to be indented
   print('you are under 10')
 elif age >= 10 and age <= 20: # && = and in python
   print('You\'re a teenager ')

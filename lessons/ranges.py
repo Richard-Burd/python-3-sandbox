@@ -5,7 +5,7 @@
 for n in range(5):
   print(n)
 
-# go from and include 5, up to but not incuding 5
+# go from and include 5, up to but not incuding 10
 for n in range(5,10):
   print(n)
 
@@ -23,5 +23,5 @@ print("Now let's go backwards...")
 #                         -1            the start position is the last "-" item in the array
 #                             -1        the end position is the last "-" item in the order
 #                                 -1    the increment ammt. going backwards "-"
-for n in range(len(names) -1, -1, -1):
+for n in range(len(names) -1, -1, -2):
   print(n + 1, ".)", names[n])

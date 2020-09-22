@@ -4,6 +4,8 @@
 # Dictionaries are the same as Javascript objects or Ruby hashes.
 people_ages = {'ron':12, 'bob':5, 'tom':36, 'dan':41, 'cat':39, 'alf':73}
 
+print(people_ages)
+
 # check to see if a key exists inside the dictionary
 print('ron' in people_ages)
 
@@ -21,7 +23,7 @@ print(list(people_ages.values()))
 
 my_names = list(people_ages.keys())
 
-print('there is', my_names.count('ron'), 'person named ron in the list')
+print("there's ", my_names.count('ron'), "ron in the list!")
 
 # this is a different way to declare a dictionary
 person = dict(name='shaun', age=27, height=6)
