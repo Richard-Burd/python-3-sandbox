@@ -24,5 +24,7 @@ for num in nums:
 print(squared_even_numbers)
 
 # another use of the comprehension method:
-squared_even_numbers = [num**2 for num in nums if(num**2) % 2 == 0]
+squared_even_numbers = [
+  num**2 for num in nums if(num**2) % 2 == 0
+]
 print(squared_even_numbers)

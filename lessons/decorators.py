@@ -14,13 +14,13 @@ class Planet:
   def orbit(self):
       return f'{self.name} is orbiting in the {self.system}'
 
-  # This "@staticmethod" is a decorator, it extend the behavior of a function without modifying the function itself.
+  # This "@staticmethod" is a decorator, it extends the behavior of a function without modifying the function itself.
   # They are use extensively in frameworks like Django.
   @staticmethod
   def spin(speed = '2000 miles per hour'):
       return f'The planet spins and spins at {speed}'
 
-  # This "@classmethod" is a decorator, it extend the behavior of a function without modifying the function itself.
+  # This "@classmethod" is a decorator, it extends the behavior of a function without modifying the function itself.
   # They are use extensively in frameworks like Django.
   @classmethod
   def commons(cls):

@@ -2,14 +2,14 @@
 # https://docs.python.org/3/library/
 from random import shuffle
 
+words = ['ron', 'cat', 'pat']
+
+anagrams = []
+
 def jumble(word):
   anagram = list(word) # ['r', 'o', 'n']
   shuffle(anagram)
   return ''.join(anagram)
-
-words = ['ron', 'cat', 'pat']
-
-anagrams = []
 
 for word in words:                                           # long form
   anagrams.append(jumble(word))                              # long form
