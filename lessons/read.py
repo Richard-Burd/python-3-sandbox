@@ -5,9 +5,9 @@ ipsum_file = open('files/ipsum.txt')
 # for line in ipsum_file:
 #   print(line)
 
-# Now let's strup out the empty space between the lines:
-for line in ipsum_file:
-  print(line.rstrip())
+# Now let's strip out the empty space between the lines:
+for my_line in ipsum_file:
+  print(my_line.rstrip())
 
 
 # we've already read through file and are at the end...in order to do this next
@@ -20,7 +20,7 @@ ipsum_file.seek(0)
 lines = ipsum_file.readlines()
 print(lines)
 
-# now let's set the curson to the 45th element...
+# now let's set the cursor to the 45th element...
 ipsum_file.seek(45)
 
 # then from the 45th element, let's read 4 (i.e. really '3') elements:

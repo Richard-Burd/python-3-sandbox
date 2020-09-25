@@ -1,5 +1,4 @@
 ## Python 3 Sandbox
 
-I'll be going through this series [here](https://www.youtube.com/watch?v=Ozrduu2W9B8&list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK) since I haven't used Python 2 in a while and now I need to know version 3.
-
-Left off [here](https://www.youtube.com/watch?v=7G0jqG_kiig&list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK&index=26) on Lesson 26
+I'll be using these video series [here](https://www.youtube.com/watch?v=Ozrduu2W9B8&list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK), [here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm), [here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv), and [here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP) to create a comprehensive Python 3 cheat-sheet similiar to my [TypeScript Cheat Sheet](https://richard-burd.github.io/the_importance_of_cheat_sheets).&nbsp; Here is a preview:
+![Python Class Construction](https://i.imgur.com/sjJWTLb.jpg)
