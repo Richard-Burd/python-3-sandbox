@@ -1,4 +1,5 @@
 # https://www.youtube.com/watch?v=1uCH3zqbv2s&list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&index=8
+# https://www.youtube.com/watch?v=1uCH3zqbv2s
 # Python Programming Tutorial #8 - List's and Tuples
 
 # Elements in lists are called "items"
