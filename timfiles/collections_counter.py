@@ -68,3 +68,22 @@ b = Counter({'x':10, 'y':10, 'z':10})
 
 print(a+b)
 #=> Counter({'z': 13, 'y': 12, 'x': 11})
+
+print(b-a)
+#=> Counter({'x': 9, 'y': 8, 'z': 7})
+
+# NOTE: when you subtract elements on a counter, it will not show values of 0
+#       nor will it show negative values:
+print(a-b)
+#=> Counter()
+
+print(b & a) # here we say that 'x' is "intersecting" with 'y'
+# this gives the lowest common values for the items in the counter,
+# in this case, 'z' has a value of 3 (in Counter "a" above) and a value of 10
+# (in Counter "b" above) so since 3 is the smallest, that is the intersect value
+#=> Counter({'z': 3, 'y': 2, 'x': 1})
+
+# The opposite of "intersecting" is called "UNION" which is shown below:
+# These are the maximum values between the two Counters 'a' and 'b' above
+print(a | b)
+#=> Counter({'x': 10, 'y': 10, 'z': 10})
