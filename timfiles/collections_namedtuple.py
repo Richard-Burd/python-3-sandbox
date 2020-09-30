@@ -15,9 +15,9 @@ from collections import namedtuple
 # These are Python Data Types introduced by the Collections Module
 # (from collections import...etc):
 # You have to import them to use them
-  # 1.) counter <- This lesson
+  # 1.) counter
   # 2.) deque
-  # 3.) namedTuple()
+  # 3.) namedTuple()  <- This lesson
   # 4.) orderedDict
   # 5.) defaultDict
 
