@@ -77,7 +77,7 @@ print(w.maxlen)
 # NOTE: you cannot reassign this 'maxlen' value after it's initially declared
 
 # ...you can only add to the deque with the extend method, but that will still
-# mantain the originam maxlen of 5
+# mantain the original maxlen of 5
 w.extend([1, 2, 3])
 print(w)
 #=> deque(['e', 'n', 1, 2, 3], maxlen=5)

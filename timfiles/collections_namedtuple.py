@@ -36,6 +36,7 @@ print(newP)
 Coor = namedtuple('Coordinates', ['lat', 'lon'])
 new_coor = Coor(20.213, 499.340)
 print(new_coor)
+#=> Coordinates(lat=20.213, lon=499.34)
 
 # You can even do this with dictionaries like so:
 # start out with generic "0" values just to populate the dictionary:

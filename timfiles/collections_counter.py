@@ -31,7 +31,7 @@ a = Counter({'a':1, 'b':2})
 print(a)
 #=> Counter({'b': 2, 'a': 1})
 
-a = Counter(cats=4, dogs=7) #keys can't be mixed
+a = Counter(cats=4, dogs=7) # keys can't be strings
 print(a['cats'])
 #=> 4
 
@@ -53,7 +53,7 @@ b.subtract('z') # you can subtract any of the strings but not integers (e.g. 34 
 print(b)
 #=> Counter({'z': 44, 34: 8, 'y': 7, 'x': 2, 3: 1})
 #                                         |
-d = ['x', 'x', 'x', 'x'] #                |
+d = ['x', 'x', 'x', 'x'] #                | alternative: d = ({'x':4})
 b.update(d) #                             |
 print(b) #                                |
 #=> Counter({'z': 44, 34: 8, 'y': 7, 'x': 6, 3: 1})
@@ -77,7 +77,7 @@ print(b-a)
 print(a-b)
 #=> Counter()
 
-print(b & a) # here we say that 'x' is "intersecting" with 'y'
+print(b & a) # here we say that 'a' is "intersecting" with 'b'
 # this gives the lowest common values for the items in the counter,
 # in this case, 'z' has a value of 3 (in Counter "a" above) and a value of 10
 # (in Counter "b" above) so since 3 is the smallest, that is the intersect value
