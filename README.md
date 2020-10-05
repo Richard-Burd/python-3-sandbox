@@ -1,8 +1,4 @@
 # Python 3 Sandbox
-
-I'll be using these video series [here](https://www.youtube.com/watch?v=Ozrduu2W9B8&list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK), [here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm), [here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv), and [here](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP) to create a comprehensive Python 3 super-duper master cheat-sheet similiar to my [TypeScript Cheat Sheet](https://richard-burd.github.io/the_importance_of_cheat_sheets).&nbsp; Here is a preview from the class constructor section:
-![Python Class Construction](https://i.imgur.com/sjJWTLb.jpg)
-
-## Update
-Still under construction but soon to be complete:
-![different subsections of the cheatsheet](https://i.imgur.com/22obRU9.jpg)
+Here is the current version of my cheat-sheet for Python 3:
+![a massive cheat sheet showing Python details](https://i.imgur.com/R9O6e3f.jpg)
+All feedback is welcome, feel free to submit a pull request or create a new issue to suggest corrections, changes, or additions. &nbsp;If you do not see the cheatsheet for whatever reason you can view or download it [here](https://drive.google.com/file/d/1l2QqzHdfAmrQxy3aPAzy6UsL8Ol36hHZ/view?usp=sharing) {:target="_blank"}.&nbsp;
