@@ -94,7 +94,10 @@ q2 = Queue() # <-------------- this is an empty queue
 q2 + "a"
 q2 + 8
 q2 + True
-q2 - [2, 3, 1]
+q2 - [2, 3, 1, 0, 4]
 print(q2)
 #=> Queue size is: (3)
 # this queue size is '3' because the queue just had 3 items .put() into it
+
+print(list(q2.queue))
+#=> [8, True]

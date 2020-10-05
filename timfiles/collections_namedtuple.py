@@ -33,7 +33,7 @@ print(newP)
 #=> Point(x=3, y=4, z=5, time='12:00pm')
 
 # You don't have to, but you can embed the elements in "[]" like so:
-Coor = namedtuple('Coordinates', ['lat', 'lon'])
+Coor = namedtuple('Coordinates', ['lat', 'long'])
 new_coor = Coor(20.213, 499.340)
 print(new_coor)
 #=> Coordinates(lat=20.213, lon=499.34)
