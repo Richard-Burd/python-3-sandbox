@@ -1,0 +1,13 @@
+Suggestions for changes to be made
+
+1.) explain that a Python set must be declared like this: emptySet = set()
+    a.) a list is made into a set: https://www.datacamp.com/community/tutorials/sets-in-python
+    b.) a set cannot have duplicates whereas a list can (verify this is true)
+
+2.) Michael recommends this:
+    https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
+    show the use of the method called: ".difference(*others)"
+
+3.) The most important things about set is that it's a collection with no duplicates and no order.
+
+4.) What is a generator
