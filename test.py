@@ -6,7 +6,7 @@ from lessons.space.planet import Planet
 print(Planet)
 #=> <class 'lessons.space.planet.Planet'>
 
-from collections import Counter, deque, namedtuple, orderedDict
+from collections import Counter, deque, namedtuple, OrderedDict
 
 a = Counter('gallad')
 print(a)

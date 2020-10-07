@@ -11,3 +11,5 @@ Suggestions for changes to be made
 3.) The most important things about set is that it's a collection with no duplicates and no order.
 
 4.) What is a generator
+
+5.) "orderedDict" needs to be capitalized to "OrderedDict" in the 'Collections' section
