@@ -17,5 +17,6 @@ print(Planet.shape)
 
 print(f'default: {naboo.spin()}')
 print(f'custom: {naboo.spin("100 mph")}')
+print(f'custom: {Planet.spin("100 mph")}')
 
 print(naboo.commons())
