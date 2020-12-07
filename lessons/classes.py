@@ -14,3 +14,8 @@ print(f'{naboo.name} has a mass of {naboo_mass} and a volume of {naboo_vol}')
 
 print(naboo.shape)
 print(Planet.shape)
+
+print(f'default: {naboo.spin()}')
+print(f'custom: {naboo.spin("100 mph")}')
+
+print(naboo.commons())
