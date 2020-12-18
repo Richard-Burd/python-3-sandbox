@@ -10,6 +10,7 @@ This sandbox contains random code snippets from the following YouTube tutorial s
  7. [Python Tutorials : Threading Beginners by PyMoondra](https://www.youtube.com/watch?v=bnm5_GH04fM)
 
 These references were consulted in the making of *Python Illustrated* - a cheat sheet for using the Python programming language:
+
 [
 ![a massive cheat sheet showing Python details](https://i.imgur.com/2FjckVW.jpg)
 ](https://drive.google.com/file/d/1l2QqzHdfAmrQxy3aPAzy6UsL8Ol36hHZ/view?usp=sharing)
