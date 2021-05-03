@@ -15,6 +15,8 @@ These references were consulted in the making of *Python Illustrated* - a cheat 
 ![an image that takes you to the PDF version](https://i.imgur.com/PhqLglF.jpg)
 ](https://drive.google.com/file/d/1bwm0tF4sCxBEyA746Ez4wldzpiSzjINl/view?usp=sharing)
 
+Click on the image preview below to access the rastered version:
+
 [
 ![a massive cheat sheet showing Python details](https://i.imgur.com/2FjckVW.jpg)
 ](https://drive.google.com/file/d/1l2QqzHdfAmrQxy3aPAzy6UsL8Ol36hHZ/view?usp=sharing)
